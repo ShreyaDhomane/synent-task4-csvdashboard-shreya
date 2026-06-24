@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 CSV Dashboard - Netflix Dataset Analysis
 
 ## Project Overview
@@ -157,3 +158,7 @@ The dashboard successfully provides interactive analysis of the Netflix dataset 
 Shreya Dhomane
 Data Science Internship Project
 Synent Technologies
+=======
+# synent-task4-csvdashboard-shreya
+Netflix CSV Dashboard built using Streamlit and Python
+>>>>>>> c101daff8ca04fb27311781e653700db29996902
