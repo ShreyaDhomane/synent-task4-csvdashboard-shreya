@@ -1,0 +1,8 @@
+.venv/ venv/ 
+# Python cache 
+pycache/ 
+*.pyc 
+# Streamlit cache 
+.streamlit/
+# OS files 
+.DS_Store
